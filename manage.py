@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#My Update
+#This is the new update that has been done from the local machine
 
 import os
 import sys
